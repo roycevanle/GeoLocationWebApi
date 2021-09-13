@@ -1,0 +1,29 @@
+{
+  "name": "geolocationwebapi",
+  "version": "1.0.0",
+  "description": "This is a server-side web app by Royce L.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roycevanle/GeoLocationWebApi.git"
+  },
+  "keywords": [
+    "example",
+    "data",
+    "server",
+    "server-side",
+    "app"
+  ],
+  "author": "Royce Le",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roycevanle/GeoLocationWebApi/issues"
+  },
+  "homepage": "https://github.com/roycevanle/GeoLocationWebApi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
